@@ -15,7 +15,8 @@ export function SplineHero() {
       {/* Spline Interactive Background - Full Height */}
       <div className="absolute inset-0 w-full h-full">
         <iframe 
-          src="https://my.spline.design/backgroundhoverinteraction-nKmaXJhtphw1ZZkU1Cbi5Kuh/" 
+          src="https://my.spline.design/backgroundhoverinteraction-nKmaXJhtphw1ZZkU1Cbi5Kuh/
+          " 
           className="w-full h-full border-0"
           title="Interactive 3D Background"
         />
